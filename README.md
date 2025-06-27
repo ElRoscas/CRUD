@@ -26,21 +26,21 @@ Estructura de entidades:
 ### Requisitos previos
 
 - Tener instalado Java (JDK 11) o superior.
-- Tener NetBeans con soporte para Maven.
+- Tener NetBeans o Eclipse (el que querais) con soporte para Maven.
 - Tener MySQL en funcionamiento.
 
 ### Instrucciones para ejecutar
 
-1. Abre el proyecto con NetBeans (`Archivo > Abrir Proyecto...`).
+1. Abre el proyecto con NetBeans (`Archivo > Abrir Proyecto`) en caso de Netbeans ya saldra directamente, pero en caso de Eclipse hay que (`File > Open Projects From file System > Directory...`) Y entonces seleccionamos la carpeta completa.
 2. Asegúrate de tener configurada la conexión a la base de datos correctamente en tu clase.
-3. Ejecuta la aplicación haciendo clic derecho en tu clase principal (por ejemplo, Main.java) y selecciona “Run File” (Ejecutar Archivo).
+3. Ejecuta la aplicación haciendo clic derecho en la clase principal (`CRUDexecutar`) y selecciona “Run File”.
 
 ---
 
 ##  Cómo ejecutar las pruebas (JUnit)
 
 1. Abre NetBeans y busca la clase de pruebas que quieras ejecutar (por ejemplo, `SalaDaoTest.java`).
-2. Haz **clic derecho sobre la clase de test** y selecciona **“Test File” (Probar archivo)**.
+2. Haz clic derecho sobre la clase de test y selecciona “Test File”.
 3. NetBeans ejecutará los tests automáticamente y mostrará los resultados en la ventana inferior.
 
 ---
