@@ -2,7 +2,7 @@
 
 # Sistema de Gestión de Reservas de Salas
 
-Este proyecto es una aplicación CRUD (Crear, Leer, Actualizar, Eliminar) para gestionar las reservas de salas por parte de empleados. Está desarrollado en Java usando Maven como gestor de dependencias, Swing para la interfaz gráfica y MySQL como base de datos. También incluye pruebas automatizadas con JUnit 5.
+Este proyecto es una aplicación CRUD (Crear, Leer, Actualizar, Eliminar) para gestionar las reservas de salas por parte de empleados. Está desarrollado en Java usando Maven como gestor de dependencias, MySQL como base de datos con Xampp. También incluye pruebas automatizadas con JUnit 5.
 
 ## Descripción general
 
